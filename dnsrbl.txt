@@ -57,3 +57,4 @@ burpcollaborator.net
 oastify.com
 requestbin.net
 dnslog.cn
+ads.assemblyexchange.com
